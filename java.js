@@ -21,6 +21,8 @@ codes[list]++;
 }
 
 
+console.log(valeurs.length);
+
 console.log(codes);
 
 
