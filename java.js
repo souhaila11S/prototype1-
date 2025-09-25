@@ -6,7 +6,6 @@ if(codes[list]){
 codes[list]++;
 
 
-
 }else{
 
     codes[list]=1;
